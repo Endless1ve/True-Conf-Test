@@ -6,7 +6,6 @@ module.exports = {
       value: "build",
       name: "build:     Сборка проекта или изменения внешних зависимостей",
     },
-    { value: "ci", name: "ci:        Настройка CI и работа со скриптами" },
     { value: "docs", name: "docs:      Обновление документации" },
     { value: "feat", name: "feat:      Добавление нового функционала" },
     { value: "fix", name: "fix:       Исправление ошибок" },
